@@ -9,7 +9,7 @@ The **💸 Cash App Clone** is a **free**, high-performance white-label script d
 
 <div align="center">
 
-[![Download Cash App Clone](https://img.shields.io/badge/Download-green?style=for-the-badge&logo=directus)](https://tinyurl.com/cash-app-clone)
+[![Download Cash App Clone](https://img.shields.io/badge/Download-green?style=for-the-badge&logo=directus)](https://software-nation.com/cash-app-clone)
 
 </div>
 <div align="center">
@@ -83,7 +83,7 @@ Developing a secure payment gateway from scratch costs thousands of dollars and 
 2. **📦 Extract the archive** — Use the password `2026` to unlock the developer files.
 3. **🖱️ Setup Server** — Follow the `README.md` to link your Firebase/AWS and launch the dashboard.
 
-[![Download Cash App Clone](https://img.shields.io/badge/Download-green?style=for-the-badge&logo=directus)](https://tinyurl.com/cash-app-clone)
+[![Download Cash App Clone](https://img.shields.io/badge/Download-green?style=for-the-badge&logo=directus)](https://software-nation.com/cash-app-clone)
 
 ---
 
@@ -122,7 +122,7 @@ Developing a secure payment gateway from scratch costs thousands of dollars and 
 
 <div align="center">
 
-[![Download Cash App Clone](https://img.shields.io/badge/Download-green?style=for-the-badge&logo=directus)](https://tinyurl.com/cash-app-clone)
+[![Download Cash App Clone](https://img.shields.io/badge/Download-green?style=for-the-badge&logo=directus)](https://software-nation.com/cash-app-clone)
 
 **Version 4.2.0** — Your Fintech Journey Starts Here. April 2026 Update. Zero cost.
 
